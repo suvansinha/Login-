@@ -1,2 +1,2 @@
-#simple techs
+# Simple techs
 
