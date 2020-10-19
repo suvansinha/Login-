@@ -1,2 +1,2 @@
-# Login
-a simple login system
+#simple techs
+
